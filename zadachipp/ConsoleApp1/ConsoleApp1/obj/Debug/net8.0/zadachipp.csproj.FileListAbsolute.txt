@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\zadachipp\zadachipp\bin\Debug\net8.0\zadachipp.exe
+C:\Users\PC\source\repos\zadachipp\zadachipp\bin\Debug\net8.0\zadachipp.deps.json
+C:\Users\PC\source\repos\zadachipp\zadachipp\bin\Debug\net8.0\zadachipp.runtimeconfig.json
+C:\Users\PC\source\repos\zadachipp\zadachipp\bin\Debug\net8.0\zadachipp.dll
+C:\Users\PC\source\repos\zadachipp\zadachipp\bin\Debug\net8.0\zadachipp.pdb
+C:\Users\PC\source\repos\zadachipp\zadachipp\obj\Debug\net8.0\zadachipp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\zadachipp\zadachipp\obj\Debug\net8.0\zadachipp.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\zadachipp\zadachipp\obj\Debug\net8.0\zadachipp.AssemblyInfo.cs
+C:\Users\PC\source\repos\zadachipp\zadachipp\obj\Debug\net8.0\zadachipp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\zadachipp\zadachipp\obj\Debug\net8.0\zadachipp.dll
+C:\Users\PC\source\repos\zadachipp\zadachipp\obj\Debug\net8.0\refint\zadachipp.dll
+C:\Users\PC\source\repos\zadachipp\zadachipp\obj\Debug\net8.0\zadachipp.pdb
+C:\Users\PC\source\repos\zadachipp\zadachipp\obj\Debug\net8.0\zadachipp.genruntimeconfig.cache
+C:\Users\PC\source\repos\zadachipp\zadachipp\obj\Debug\net8.0\ref\zadachipp.dll
