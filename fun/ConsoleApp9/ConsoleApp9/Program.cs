@@ -6,7 +6,7 @@ class MainClass
         Console.WriteLine("Введите строку:");
         string userInput = Console.ReadLine();
 
-        string reversString = ReverseТ(userInput);
+        string reversString = Reverse(userInput);
 
         Console.WriteLine(reversString);
     }
